@@ -1,6 +1,6 @@
 # youtubezapret
 
-Сборка youtubezapret для тех, у кого YouTube ползёт на 144p. Без VPN и без смены DNS-провайдера.
+Актуальная версия с поддержкой работы YouTube. Быстрее, надежнее, стабильнее
 
 Сборка youtubezapret для тех, у кого YouTube ползёт на 144p. Без VPN и без смены DNS-провайдера. обход замедления YouTube, YouTube тормозит что делать, YouTube не грузит видео, ускорить YouTube без VPN. Windows 10 и 11, без VPN.
 
